@@ -1,2 +1,30 @@
 [1028/111618.328:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
 [1028/120015.391:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[1030/175648.115:ERROR:backend_impl.cc(1041)] Critical error found -8
+[1030/175648.115:ERROR:entry_impl.cc(1076)] No file for c10302a2
+[1030/175648.115:WARNING:storage_block-inl.h(146)] Failed data load.
+[1030/175648.115:WARNING:storage_block-inl.h(146)] Failed data load.
+[1030/175648.115:WARNING:storage_block-inl.h(146)] Failed data load.
+[1030/175648.116:WARNING:storage_block-inl.h(146)] Failed data load.
+[1030/175648.116:ERROR:entry_impl.cc(1076)] No file for c103029a
+[1030/175648.116:WARNING:storage_block-inl.h(146)] Failed data load.
+[1030/175648.116:WARNING:storage_block-inl.h(146)] Failed data load.
+[1030/175648.116:WARNING:storage_block-inl.h(146)] Failed data load.
+[1030/175648.116:WARNING:storage_block-inl.h(146)] Failed data load.
+[1030/175648.116:ERROR:entry_impl.cc(1076)] No file for c10302aa
+[1030/175648.116:WARNING:storage_block-inl.h(146)] Failed data load.
+[1030/175648.116:WARNING:storage_block-inl.h(146)] Failed data load.
+[1030/175648.116:WARNING:storage_block-inl.h(146)] Failed data load.
+[1030/175648.116:WARNING:storage_block-inl.h(146)] Failed data load.
+[1030/175648.116:ERROR:entry_impl.cc(1076)] No file for c10302ac
+[1030/175648.116:WARNING:storage_block-inl.h(146)] Failed data load.
+[1030/175648.116:WARNING:storage_block-inl.h(146)] Failed data load.
+[1030/175648.116:WARNING:storage_block-inl.h(146)] Failed data load.
+[1030/175648.116:WARNING:storage_block-inl.h(146)] Failed data load.
+[1030/175648.116:ERROR:entry_impl.cc(1076)] No file for c10302a6
+[1030/175648.116:WARNING:storage_block-inl.h(146)] Failed data load.
+[1030/175648.116:WARNING:storage_block-inl.h(146)] Failed data load.
+[1030/175648.116:WARNING:storage_block-inl.h(146)] Failed data load.
+[1030/175648.116:WARNING:storage_block-inl.h(146)] Failed data load.
+[1030/175648.116:WARNING:storage_block-inl.h(146)] Failed data load.
+[1030/175650.830:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
